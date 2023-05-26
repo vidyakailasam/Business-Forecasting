@@ -1,1 +1,2 @@
 # Business-Forecasting
+An example of business forecasting analytical models and systems (with data) that are capable of enhancing decision making and providing decision support for managerial and policy decisions at the firm, industry, and country levels. It is emphasized that applications of predictive analytical methodology and empirical analysis are an integral part of forecasting. Both methods and results provide solutions to problems and insights to decision-makings.
